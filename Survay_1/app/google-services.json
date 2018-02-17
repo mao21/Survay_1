@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "240936509776",
+    "firebase_url": "https://anurvey.firebaseio.com",
+    "project_id": "anurvey",
+    "storage_bucket": "anurvey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240936509776:android:e9b78cdd47a64ceb",
+        "android_client_info": {
+          "package_name": "com.example.user.survay_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240936509776-6mt2k1cpi6uoc636v2ef8qjb651moc4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.survay_1",
+            "certificate_hash": "ec0d81d2c977d80376d41a2ae55f33f4435386dd"
+          }
+        },
+        {
+          "client_id": "240936509776-7ot3ujsfcqs33fdu3kgii1q4hmrh9vak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXt2fY0qvmm0IbV-K8hcPoHeDnR9oYE50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240936509776-7ot3ujsfcqs33fdu3kgii1q4hmrh9vak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240936509776-r7pjdihtlr9btnuit5u8fmnlp1am84pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ibrahimchiha.Anurvey"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
